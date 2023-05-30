@@ -1,2 +1,4 @@
 proj2b.psd filter=lfs diff=lfs merge=lfs -text
+top_49887_words.csv.psd filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
