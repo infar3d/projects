@@ -7,4 +7,4 @@
    - 1A: Implemented a Doubly Linnked List representation of a Deque.
    - 1B: Impelmented the ArrayDeque
    - 1C: Implemented a MaxArrayDeque which keeps track of the max item.
-- **Scheme_Interpreter (Python)**: 
+- **Scheme_Interpreter (Python)**: an interpretor for a subset of the Scheme language that takes in an expression in the scheme language, interprets in Python, and displays the result. Can interpret math proceduces, user-defined functions, lambda functions, as well as logical special forms (if, or, and, cond).  
