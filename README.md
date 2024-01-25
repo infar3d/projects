@@ -1,11 +1,11 @@
 # PROJECTS: 
 ----------------------------------------------
-- **AntsVsSomeBees (Python)**: tower defense game created using Python, inspired by Plants vs. Zombies. Ants must protect their queen ant from bees invading their territory. Can be played using GUI.
 - **BuildYourOwnWorld (Java)**: personal game that renders a unique world based on seed, where avatar moves around. Implemented an HUD (which allows you to see tile type), ability to choose avatar, replay game (displays all moves of the last game), and a play-from-last-game feature (starts the game from where the last one ended). Rendered the game with StdDraw.
-- **CATS** aka **C**S61A **A**utocorrected **T**yping **S**oftware **(Python)**: A program that measures typing speed and accuracy, with the option of enabling autocorrect. Compliled data about frequency of English words to implement the autocorrect feature. 
-- **Deques (Java)**: 
-   - 1A: Implemented a Doubly Linnked List representation of a Deque.
-   - 1B: Impelmented the ArrayDeque
-   - 1C: Implemented a MaxArrayDeque which keeps track of the max item.
 - **Scheme_Interpreter (Python)**: an interpretor for a subset of the Scheme language that takes in an expression in the scheme language, interprets in Python, and displays the result. Can interpret math proceduces, user-defined functions, lambda functions, as well as logical special forms (if, or, and, cond).  
 - **Wordnet (Java)**: a lexicon that describes hypernym/hyponym relationships between words in Java using graphs, trees, and deques. Implemented a GUI that displays the the first k(any number) alphabetical hyponyms of a word and graphs the popularity of a word over a time range of choice.
+- **machinelearning (Python)**: implemented the *perceptron algorithm*, neural network, and recurrent nn models, and apply the models to several tasks including *digit classification and language identification*.
+- **multiagent search (Python)**:modeled classic Pacman as both an adversarial and a stochastic search problem. Implemented multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
+- **reinforcement learning (Python)**: implemented Value Function, Q learning, and Approximate Q learning to help pacman and crawler agents learn rational policies.
+- **tracking (Python)**: implemented probabilistic inference on Bayes Nets and the forward algorithm and particle sampling in a Hidden Markov Model to help Pacman find ghosts given noisy readings of distances to them.
+- **Housing Predictions (Python)**: Performed feature engineering and one-hot encoding on a data set about details of house sales to develop a regression model that determines the sale price of a house using features such as house age, house size, and the neighborhood.
+- **Spam/Ham Email Classifier (Python)**: Developed and trained a logistic regression model that analyzes the frequency of certain words and punctuation within an email’s subject and body to determine whether an email is spam or not.
