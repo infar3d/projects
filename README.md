@@ -8,4 +8,3 @@
 - **reinforcement learning (Python)**: implemented Value Function, Q learning, and Approximate Q learning to help pacman and crawler agents learn rational policies.
 - **tracking (Python)**: implemented probabilistic inference on Bayes Nets and the forward algorithm and particle sampling in a Hidden Markov Model to help Pacman find ghosts given noisy readings of distances to them.
 - **Housing Predictions (Python)**: Performed feature engineering and one-hot encoding on a data set about details of house sales to develop a regression model that determines the sale price of a house using features such as house age, house size, and the neighborhood.
-- **Spam/Ham Email Classifier (Python)**: Developed and trained a logistic regression model that analyzes the frequency of certain words and punctuation within an email’s subject and body to determine whether an email is spam or not.
